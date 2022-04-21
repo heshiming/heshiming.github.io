@@ -1,0 +1,2 @@
+Sitemap: https://heshiming.github.io/sitemap.xml
+User-agent: *

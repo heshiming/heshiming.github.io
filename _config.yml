@@ -1,0 +1,23 @@
+# Setup
+title:               He Shiming
+tagline:             'at GitHub'
+description:         'He Shiming at GitHub'
+url:                 https://heshiming.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              He Shiming
+  url:               https://heshiming.github.io
+  email:             heshiming@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-minifier
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: UA-5688423-5
